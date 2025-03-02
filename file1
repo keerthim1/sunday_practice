@@ -1,0 +1,4 @@
+A Virtual Private Cloud (VPC) is a private network you can create in AWS, where you can launchAWS resources EC2 instances. 
+It’s like having your own private space on the internet to keep your resources safe from others.
+You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways.
+
