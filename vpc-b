@@ -1,0 +1,7 @@
+Subnets: Dividing your VPC into smaller networks(like rooms in your house)(public or private).
+Route Tables: Control traffic flow between subnets and other networks.
+Internet Gateway (IGW): Allows VPC  to connect to the internet. (like a door to outside world)
+NAT Gateway: Allows private instances to access the internet without being directly exposed.
+Security Groups: Virtual firewalls to control inbound and outbound traffic for resources.
+
+
